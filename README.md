@@ -1,6 +1,6 @@
 # Shell
 -  1、 [从菜鸟教程中翻录的Shell基础知识。](https://www.runoob.com/linux/linux-shell.html)
--  2、 自动安装tomcat8
+-  2、 [自动安装tomcat8](https://github.com/cnkaile/Shell/tree/master/auto_install_tomcat8.5.51)
 
 tomcat版本：apache-tomcat-8.5.51.tar.gz
 

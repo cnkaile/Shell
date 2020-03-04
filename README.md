@@ -6,5 +6,5 @@
 -  2、 [自动安装tomcat8](https://github.com/cnkaile/Shell/tree/master/auto_install_tomcat8.5.51)
 
 tomcat版本：apache-tomcat-8.5.51.tar.gz
-
+tomcat安装路径：/usr/local/tomcat/
 tomcat下载链接：http://mirrors.tuna.tsinghua.edu.cn/apache/tomcat/tomcat-8/v8.5.51/bin/apache-tomcat-8.5.51.tar.gz

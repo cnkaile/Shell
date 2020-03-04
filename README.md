@@ -1,4 +1,6 @@
 # Shell
+==***测试环境 Ubuntu Server 16.04.1 LTS 64位 ***==
+
 -  1、 [从菜鸟教程中翻录的Shell基础知识。](https://www.runoob.com/linux/linux-shell.html)
 -  2、 [自动安装tomcat8](https://github.com/cnkaile/Shell/tree/master/auto_install_tomcat8.5.51)
 

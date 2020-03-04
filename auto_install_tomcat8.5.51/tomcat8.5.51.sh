@@ -20,7 +20,7 @@ if test $? == 0 ;
 then
 	echo "下载完成"
 else
-	echo $$
+	echo "下载Tomcat8失败.Shell执行pid:$$"
 	exit 1
 	#echo `kill -9 $$`
 fi

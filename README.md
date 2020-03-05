@@ -11,7 +11,7 @@ tomcat安装路径：/usr/local/tomcat/
 
 tomcat下载链接：http://mirrors.tuna.tsinghua.edu.cn/apache/tomcat/tomcat-8/v8.5.51/bin/apache-tomcat-8.5.51.tar.gz
 
--  3、 [自动安装Java JDK]
+-  3、 [自动安装Java JDK](https://github.com/cnkaile/Shell/tree/master/auto_install_javaJDK)
 
 由于从Orcle下载 Java JDK需要登录，所以这里不是使用在线下载方式。
 您有两种选择方式：

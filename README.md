@@ -36,7 +36,7 @@ nginx安装路径: /usr/local/nginx
 Shell中安装库命令
 
 ```shell
-        echo `dpkg -l | grep zlib`
+        echo `dpkg -l | grep zlib`                      #这里我查了一下，但是没有进行判断下面重复安装了下，反正没影响
         echo `sudo apt-get install openssl libssl-dev`
         echo `sudo apt-get install libpcre3 libpcre3-dev`
         echo `sudo apt-get install zlib1g-dev`
@@ -47,10 +47,10 @@ Shell中安装库命令
 如果您的Linux是 Redhat 系列，建议使用yum命令安装：
 
 ```shell
-  yum install gcc-c++                   #make需要使用gcc编译器，一般Linux上都存在，不用单独安装
-  yum install -y pcre pcre-devel        #安装PCRE-DEVEL
-  yum install -y pcre pcre-devel        #安装zlib
-  yum install -y openssl openssl-devel  #安装OpenSSl
+          yum install gcc-c++                   #make需要使用gcc编译器，一般Linux上都存在，不用单独安装
+          yum install -y pcre pcre-devel        #安装PCRE-DEVEL
+          yum install -y pcre pcre-devel        #安装zlib
+          yum install -y openssl openssl-devel  #安装OpenSSl
 ```
 
 <hr>
